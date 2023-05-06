@@ -23,7 +23,7 @@
 text="This is my text"
 
 # Run the loop three times
-for i in {1..3}
+for i in {1..4}
 do
   # Append the message to the file
   echo "$text" >> text.txt
